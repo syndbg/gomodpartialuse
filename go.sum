@@ -1,0 +1,4 @@
+github.com/syndbg/gomodmyrepo v1.0.1 h1:6bTo6Afef7mmSKL7mBd2Vl2TaOgUKU1pMDCpbIB3TK0=
+github.com/syndbg/gomodmyrepo v1.0.1/go.mod h1:tQ+LN/bmjiytOaE0c8LngTSKXr0zX2TlmTXrbgW2nqw=
+github.com/syndbg/gomodmyrepo/mig v1.0.0 h1:4twRqpzOIfcJXnhPU23pWCTk2lQGxNGkpRZvB6J0M50=
+github.com/syndbg/gomodmyrepo/mig v1.0.0/go.mod h1:kc/vbI560FDoJ5Im2JC95Tvw0UDLl9wMRYilExhInz0=
